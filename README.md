@@ -3,7 +3,6 @@
 An interactive, single-file business analytics dashboard for e-commerce/retail performance — revenue, profit, regional and channel breakdowns — built with vanilla JavaScript and Chart.js. No backend, no build step, no dependencies to install.
 
 **[Live Demo →](https://shivangichaurasiya82-cell.github.io/commerce-performance-dashboard/)**
-*(update this link after enabling GitHub Pages — see below)*
 
 ---
 
